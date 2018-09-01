@@ -73,6 +73,7 @@ Building
         if you're using Kali 2.0 install:
         $ apt-get install libssl-dev libnl-genl-3-dev
         
+        $ apt-get install libssl1.0-dev
 
     General - 
     ------------------------------------------------------------------------
